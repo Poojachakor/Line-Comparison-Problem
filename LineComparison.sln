@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineComparison", "LineComparison\LineComparison.csproj", "{5F2EDA00-6EA1-4A56-A490-AB6501DDCA31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2EDA00-6EA1-4A56-A490-AB6501DDCA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2EDA00-6EA1-4A56-A490-AB6501DDCA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2EDA00-6EA1-4A56-A490-AB6501DDCA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2EDA00-6EA1-4A56-A490-AB6501DDCA31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9279E6-CD64-4AA7-93EE-8B3C9BAD4DEF}
+	EndGlobalSection
+EndGlobal
